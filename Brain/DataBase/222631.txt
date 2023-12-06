@@ -1,0 +1,33 @@
+Sure, here is the detailed weather forecast for today:
+
+**Location:** Bengaluru, India
+**Date:** Tuesday, 05 December 2023
+
+**Current Conditions:**
+
+* Temperature: 22°C (71°F)
+* Humidity: 79%
+* Wind: 6 km/h (4 mph) from the West
+* UV Index: High (8)
+
+**Forecast for Today:**
+
+* Mostly sunny, with a high near 28°C (82°F).
+* A slight chance of showers in the afternoon.
+* Humidity: 75-85%.
+* Wind: 6-11 km/h (4-7 mph) from the West.
+* UV Index: High (8)
+
+**Tonight's Forecast:**
+
+* Partly cloudy, with a low around 21°C (70°F).
+* Humidity: 80-90%.
+* Wind: 4-8 km/h (3-5 mph) from the West.
+
+**Extended Forecast:**
+
+* Wednesday: Mostly sunny, with a high near 29°C (84°F).
+* Thursday: Partly cloudy, with a high near 29°C (84°F).
+* Friday: Partly cloudy, with a high near 29°C (84°F).
+
+Please note that this is just a forecast and the actual weather conditions may vary.
